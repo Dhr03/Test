@@ -3,4 +3,5 @@ First push in branch1Git.
 Second Push in branch1Git.
 Testing now(branch test 5).
 Testing now(4).
+Testing new branch conflict.
 Testing branchNew 2 conflict.
